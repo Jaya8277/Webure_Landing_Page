@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
 
   return (
-    <div className='shadow-md ... p-5'>
+    <div className='shadow-md ... p-5 animate__animated animate__backInDown'>
       <div className='max-w-[1240px] items-center flex justify-between  mx-auto'>
       <div className='text-3xl font-bold text-[#FB3F6C] italic'>
         Webure Technologies
