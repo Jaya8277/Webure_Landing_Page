@@ -1,5 +1,8 @@
 # Webure_Landing_Page
-Deployed Link :- https://webure-technologies-page.netlify.app/
+Deployed Link :- https://dainty-croquembouche-5d5163.netlify.app
+
+Security Error :- https://webure-technologies-page.netlify.app/
+
 
 Snap :- 
 
